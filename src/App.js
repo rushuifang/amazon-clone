@@ -9,7 +9,7 @@ import { useStateValue } from "./StateProvider";
 import { auth } from "./firebase";
 
 function App() {
-    const [dispatch] = useStateValue();
+    const [{ basket }, dispatch] = useStateValue();
 
     useEffect(() => {
         const unsubscribe = auth.onAuthStateChanged((authUser) => {

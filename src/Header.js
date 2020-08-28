@@ -15,7 +15,6 @@ function Header() {
         }
     };
 
-    console.log(basket);
     return (
         <nav className="header">
             <Link to="/">
