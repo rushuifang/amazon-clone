@@ -20,7 +20,7 @@ function Home() {
                 />
                 <Product
                     id="2"
-                    title="Dash DMTO100GBAQ04 Mini Toaster Oven Cooker for Bread, Bagels, Cookies, Pizza, Paninis & More with Baking Tray, Rack, Auto Shut Off Feature, Aqua"
+                    title="Dash Mini Toaster Oven Cooker for Bread, Bagels, Cookies, Pizza, Paninis & More with Baking Tray, Rack, Auto Shut Off Feature, Aqua"
                     price={29.99}
                     rating={4}
                     image="https://images-na.ssl-images-amazon.com/images/I/71nm0ZObH-L._AC_SL1500_.jpg"
