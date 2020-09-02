@@ -30,3 +30,18 @@
     border-color: #a88734 #9c7e31 #846a29;
     color: #111;
 }
+
+@media (max-width: 500px) {
+    .checkoutProduct_image {
+        width: 80px;
+        height: 80px;
+    }
+
+    .checkoutProduct_title {
+        font-size: 7px;
+    }
+
+    .checkoutProduct_info > button {
+        font-size: 7px;
+    }
+}

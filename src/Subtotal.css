@@ -29,3 +29,17 @@
     border-color: #a88734 #9c7e31 #846a29;
     color: #111;
 }
+
+@media (max-width: 500px) {
+    .subtotal {
+        font-size: 7px;
+        width: 100px;
+        height: 40px;
+        padding: 4px;
+    }
+
+    .subtotal > button {
+        font-size: 8px;
+        margin-top: 4px;
+    }
+}

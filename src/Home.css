@@ -16,3 +16,9 @@
     z-index: -1;
     margin-bottom: -150px;
 }
+
+@media (max-width: 500px) {
+    .home_image {
+        margin-bottom: -70px;
+    }
+}

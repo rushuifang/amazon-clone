@@ -37,3 +37,18 @@
     border: 1px solid;
     border-color: #a88734 #9c7e31 #846a29;
 }
+
+@media (max-width: 500px) {
+    .product {
+        font-size: 7px;
+        min-width: 40px;
+    }
+
+    .product_info {
+        height: 40px;
+    }
+
+    .product > button {
+        font-size: 7px;
+    }
+}
